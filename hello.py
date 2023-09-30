@@ -6,3 +6,8 @@ print("Hello Word! Primeiro Print python!")
             linhas'''
 
 ''' Declaração de variáveis em python'''
+#Desafio 002: Interação entre Usuário - Programador
+
+print('===================== DESAFIO 002 =====================')
+print()
+print('==================== Fim DO DESAFIO ====================')
