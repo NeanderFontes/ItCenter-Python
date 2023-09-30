@@ -1,2 +1,2 @@
 # ItCenter-Python
- Learn Python with ItCenter Academy
+ ItCenter Training Program with Python Linguage 
