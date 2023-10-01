@@ -4,5 +4,5 @@
 print('='*22, 'DESAFIO 00', '='*22)
 print('Conversor de ºC para ºF')
 valorTemperatura = float(input('Insira o valor da temperatura em ºC: '))
-print(f'{valorTemperatura}ºC = {valorTemperatura*1.8}')
+print(f'{(valorTemperatura):.1f}ºC = {(((valorTemperatura*9)/5)+32):.1f}ºF')
 print('='*22, 'FIM DO DESAFIO', '='*22)

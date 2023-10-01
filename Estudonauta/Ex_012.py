@@ -3,7 +3,7 @@
 
 print('='*22, 'DESAFIO 00', '='*22)
 print('Descontos:')
-precoProduto, valorDesconto = float(input('Qual o valor do produto? ')), int(input('Qual valor de desconto para calcular? '))
+precoProduto, valorDesconto = float(input('Qual o valor do produto? ')), float(input('Qual valor de desconto para calcular? '))
 valorPorcentagem = (precoProduto*valorDesconto)/100
-print(f'O Produto tem valor de {precoProduto} com desconto de {valorDesconto}% = {precoProduto-valorPorcentagem}')
+print(f'O Produto tem valor de €{precoProduto:.2f} com desconto de {valorDesconto:.0f}% = €{(precoProduto-valorPorcentagem):.2f}')
 print('='*22, 'FIM DO DESAFIO', '='*22)
