@@ -6,8 +6,8 @@ print("Hello Word! Primeiro Print python!")
             linhas'''
 
 ''' Declaração de variáveis em python'''
-#Desafio 002: Interação entre Usuário - Programador
+#Desafio 00: Interação entre Usuário - Programador
 
-print('===================== DESAFIO 002 =====================')
+print('='*22, 'DESAFIO 00', '='*22)
 print()
-print('==================== Fim DO DESAFIO ====================')
+print('='*22, 'FIM DO DESAFIO', '='*22)
