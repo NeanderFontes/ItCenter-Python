@@ -3,7 +3,7 @@
 
 #Importando biblioteca Math para calcular Raiz Quadrada
 import math
-print('===================== DESAFIO 002 =====================')
+print('===================== DESAFIO 006 =====================')
 numEntrada = int(input('Insira um valor numerico: '))
 print(f'Numero digitado = {numEntrada}\nDobro = {numEntrada*2}\nTriplo = {numEntrada*3}\nRaiz Quadrada = {numEntrada**(1/2)}')
 print('==================== Fim DO DESAFIO ====================')

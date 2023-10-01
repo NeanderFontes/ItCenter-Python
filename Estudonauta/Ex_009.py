@@ -1,7 +1,7 @@
 #Desafio 009: Interação entre Usuário - Programador
 #Faça um programa que leia um numero inteiro qualquer e mostre na tela sua tabuada
 
-print('='*22, 'DESAFIO 002', '='*22)
+print('='*22, 'DESAFIO 009', '='*22)
 print('Tabuada')
 numEntrada = int(input('Insira um valor inteiro: '))
 print('Tabuada de {}'.format(numEntrada))

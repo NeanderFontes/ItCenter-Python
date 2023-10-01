@@ -1,7 +1,7 @@
 #Desafio 004: Interação entre Usuário - Programador
 #Utilização de bibliotecas internas do objeto.
 
-print('===================== DESAFIO 002 =====================')
+print('===================== DESAFIO 004 =====================')
 valorEntrada = input('Digite Algo')
 print('O tipo desse valor é ', type(valorEntrada))
 print('É numero? ', valorEntrada.isnumeric)
