@@ -12,7 +12,7 @@ print(f'» Imprimir os caracteres entre [11 - 16]: {frase[11:17]}\n')
 print(f'» Imprimir os caracteres entre [11 - 16] "Pulando de 2 em 2": {frase[11:17:2]}\n')
 print(f'» Imprimir os caracteres do Inicio até index marcado: {frase[:10]}\n')
 
-'''
-Analise de uma String:
-len
-'''
+
+#Analise de uma String:
+print(f'» Imprimir o Tamanho da frase: {len(frase)}\n')
+print(f'» Imprimir o Tamanho da frase: {len(frase.strip())}\n')
